@@ -1,8 +1,10 @@
+**Finding the Right Book using Python**
+
 - FIT9133 Assignment 2.pdf: Assignment 2 specifications
-- .txt files: Input files for Task 1.
+- .txt files: Input text files for Task 1. The text files are encoded in UTF-8 and are written in English. 
 - preprocessor_30945305.py: Task 1 Setting up the preprocessor 
 - word_30945305.py: Task 2 Word Analyser
 - idf_30945305.py: Task 3: Calculating Inverse Document Frequency (IDF)
 - task4_30945305.py: Task 4: Presenting Your Result
 
-- Libraried used: math, pandas, codecs. 
+**Libraried used:** math, pandas, codecs. 
