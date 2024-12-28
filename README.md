@@ -7,4 +7,8 @@
 - idf_30945305.py: Task 3: Calculating Inverse Document Frequency (IDF)
 - task4_30945305.py: Task 4: Presenting Your Result
 
+**Tasks performed:**
+1. Creating class objects that are able to read books and then perform analysis on them.
+2. The first task is about cleaning a dataset, the second and third tasks are about performing calculations on a dataset, and the fourth is about presenting your results. 
+
 **Libraried used:** math, pandas, codecs. 
